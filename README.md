@@ -2,6 +2,12 @@
 
 The goal of this project is to allow the information from https://ipsw.me to be easily viewable and accessible within discord. 
 
+A little note: The prefix by default is ~ 
+
+To change this, move set.js to the commands folder, and run ~set edit prefix *
+
+* being the new prexix
+
 ## Installation
 
 Use NPM to install the required modules

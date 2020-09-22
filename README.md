@@ -10,6 +10,14 @@ Use NPM to install the required modules
 npm i 
 ```
 
+![search](https://i.raven.surf/00aec55dad6bd69bacf5b0ba1e645e13.png)
+
+![download](https://i.raven.surf/e6271e4f3bb0284206681f121b0ce333.png)
+
+![releases](https://i.raven.surf/bcd2378dc9c91a81323105d203399a78.png)
+
+
+
 ## Requirements
 
 - `git` command line ([Windows](https://git-scm.com/download/win)|[Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)|[MacOS](https://git-scm.com/download/mac)) installed
